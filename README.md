@@ -2,5 +2,4 @@
 local
 oui oui
 en trop
-
-exercice
+wsh je rajoute des bails chakal
